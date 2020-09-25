@@ -9,6 +9,14 @@ body {
 	height: 100%;
 }
 
+
+#warning{
+	width: 100%;
+	margin-top: 0.25rem;
+	font-size: 80%;
+	color: #dc3545;
+}
+
 .nk-container {
 	position: relative;
 	height: auto;
@@ -21,7 +29,7 @@ body {
 }
 
 header .navbar-brand {
-	background: url('http://static.nowcoder.com/images/res/logo/logo-v3.png') no-repeat;
+	background: url('http://m.qpic.cn/psc?/V11Nxkpt2Phc6V/ruAMsa53pVQWN7FLK88i5sx.vyHY4veP3vGM5qF7ZPnU8uz6h1FKdnh09TbvlLwC0Exr*HTjtpXZcXFaMs6P2EggYukYpRPZR6zsvzRMqXQ!/b&bo=fgFqAAAAAAADBzc!&rf=viewer_4') no-repeat;
 	background-size: 147px 42px;
 	width: 147px;
 	height: 42px;
@@ -38,6 +46,8 @@ header .badge {
 	top: -3px;
 	left: 33px;
 }
+
+
 
 footer {
 	padding: 20px 0;
